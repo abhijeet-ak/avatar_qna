@@ -1,0 +1,11 @@
+{"data":[{"title":"Super_Bowl_50", "paragraphs":[{
+	"context":"Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24–10 to earn their third Super Bowl title. The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. As this was the 50th Super Bowl, the league emphasized the \"golden anniversary\" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as \"Super Bowl L\"), so that the logo could prominently feature the Arabic numerals 50. Carolina suffered a major setback when Thomas Davis, an 11-year veteran who had already overcome three ACL tears in his career, went down with a broken arm in the NFC Championship Game. Despite this, he insisted he would still find a way to play in the Super Bowl. His prediction turned out to be accurate.", 
+	"qas":[{"answers":[{"answer_start":177,"text":"Denver Broncos"}],"question":"What is Super Bowl 50?","id":"q1"},
+	       {"answers":[{"answer_start":177,"text":"Thomas Davis"}],"question":"What Carolina player was injured in the NFC Championship Game?","id":"q2"},
+	       {"answers":[{"answer_start":177,"text":"a broken arm"}],"question":"What injury did Thomas Davis suffer in the NFC Championship?","id":"q3"}
+	       
+	]
+	}]
+}],
+"version":"1.1"
+}
